@@ -108,7 +108,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="website"></string>
+     <string value="scorm"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ"></string>
      <string role="key" value="parent"></string>
@@ -261,7 +261,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="website"></string>
+        <string value="scorm"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz"></string>
         <string role="key" value="parent"></string>
@@ -542,7 +542,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:P%C3%B3dcast%2011%20%22%20Somos%20Naturaleza%22"></string>
            <string role="key" value="parent"></string>
@@ -958,7 +958,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Gu%C3%ADa%20de%20vagos%20para%20salvar%20el%20mundo"></string>
            <string role="key" value="parent"></string>
@@ -1099,7 +1099,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="imagen_podcast.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\antonio\\appdata\\local\\temp\\tmpsfmobo\\imagen_podcast.png"></string>
+                        <string value="c:\\users\\gerar\\appdata\\local\\temp\\tmpzhmvwi\\imagen_podcast.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="09353ed6277c727bca2db70f53e426e6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1303,7 +1303,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Taller%20preparaci%C3%B3n%20P%C3%B3dcast%201"></string>
            <string role="key" value="parent"></string>
@@ -1589,7 +1589,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Taller%20Preparaci%C3%B3n%20P%C3%B3dcast%202"></string>
            <string role="key" value="parent"></string>
@@ -1876,7 +1876,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Modalidad%20ling%C3%BC%C3%ADstica%20andaluza"></string>
            <string role="key" value="parent"></string>
@@ -2159,7 +2159,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Educaci%C3%B3n%20Literaria%3A%20La%20Celestina"></string>
            <string role="key" value="parent"></string>
@@ -2314,7 +2314,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Producto%20final%3A%20grabaci%C3%B3n%20p%C3%B3dcast"></string>
            <string role="key" value="parent"></string>
@@ -2595,7 +2595,7 @@
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="website"></string>
+           <string value="scorm"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:P%C3%93DCAST%20CON%20ACENTO%20ANDALUZ:P%C3%B3dcast%20con%20acento%20andaluz:Autor%C3%ADa%20y%20Licencia"></string>
            <string role="key" value="parent"></string>
@@ -4185,7 +4185,7 @@
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.9"></string>
+  <string value="2.8"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="09353ed6277c727bca2db70f53e426e6"></string>
